@@ -2,6 +2,6 @@
 #include <stdlib.h>
 #include <iostream>
 int main() {
-	cout << "Privet!";
+	cout << "Dobro pogalovat Gospodin!";
 	return 0;
 }
