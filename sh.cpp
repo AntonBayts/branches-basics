@@ -2,6 +2,6 @@
 #include <stdlib.h>
 #include <iostream>
 int main() {
-	cout << "Zdravstvuete";
+	std::cout << "Zdravstvuete";
 	return 0;
 }
